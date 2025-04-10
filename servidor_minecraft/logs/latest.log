@@ -1,51 +1,9 @@
-[23:15:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:15:10] [ServerMain/INFO]: Loaded 1290 recipes
-[23:15:10] [ServerMain/INFO]: Loaded 1399 advancements
-[23:15:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[23:15:11] [Server thread/INFO]: Loading properties
-[23:15:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:15:11] [Server thread/INFO]: Generating keypair
-[23:15:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:15:11] [Server thread/INFO]: Using epoll channel type
-[23:15:11] [Server thread/INFO]: Preparing level "world"
-[23:15:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:15:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:15:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:15:16] [Worker-Main-1/INFO]: Preparing spawn area: 36%
-[23:15:16] [Server thread/INFO]: Time elapsed: 1245 ms
-[23:15:16] [Server thread/INFO]: Done (5.063s)! For help, type "help"
-[23:15:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:15:16] [Server thread/INFO]: 11<--[HERE]
-[23:16:33] [User Authenticator #1/INFO]: UUID of player Wycktreckz is 18d65aa7-fd92-4638-9071-1c6ee282384e
-[23:16:34] [Server thread/INFO]: Wycktreckz[/127.123.89.46:56037] logged in with entity id 5 at (1267.0605064224283, -48.0, 448.2943653266056)
-[23:16:35] [Server thread/INFO]: Wycktreckz joined the game
-[23:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1282, y=-54, z=502} jd{x=1283, y=-55, z=503}
-[23:19:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1280, y=-52, z=517} jd{x=1279, y=-52, z=517}
-[23:19:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1280, y=-52, z=517} jd{x=1279, y=-52, z=517}
-[23:19:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1280, y=-52, z=517} jd{x=1279, y=-52, z=517}
-[23:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1269, y=-45, z=518} jd{x=1296, y=-47, z=523}
-[23:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1269, y=-45, z=518} jd{x=1296, y=-47, z=523}
-[23:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1269, y=-45, z=518} jd{x=1296, y=-47, z=523}
-[23:20:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1269, y=-45, z=518} jd{x=1296, y=-47, z=523}
-[23:21:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1307, y=-51, z=516} jd{x=1306, y=-51, z=514}
-[23:21:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1308, y=-51, z=498} jd{x=1307, y=-50, z=499}
-[23:21:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1307, y=-50, z=499} jd{x=1307, y=-50, z=500}
-[23:22:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1313, y=-47, z=519} jd{x=1315, y=-47, z=520}
-[23:23:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1315, y=-38, z=525} jd{x=1316, y=-38, z=525}
-[23:23:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1312, y=-40, z=530} jd{x=1313, y=-40, z=530}
-[23:23:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1313, y=-48, z=500} jd{x=1315, y=-49, z=501}
-[23:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1313, y=-52, z=488} jd{x=1314, y=-52, z=487}
-[23:25:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1336, y=-52, z=502} jd{x=1335, y=-53, z=501}
-[23:25:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1334, y=-50, z=502} jd{x=1334, y=-52, z=502}
-[23:25:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1334, y=-50, z=502} jd{x=1334, y=-52, z=502}
-[23:25:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1338, y=-49, z=507} jd{x=1339, y=-50, z=507}
-[23:26:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1316, y=-48, z=475} jd{x=1315, y=-49, z=475}
-[23:27:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1321, y=-45, z=478} jd{x=1321, y=-44, z=477}
-[23:27:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1339, y=-40, z=484} jd{x=1340, y=-42, z=485}
-[23:27:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1336, y=-42, z=485} jd{x=1336, y=-41, z=484}
-[23:28:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1300, y=-51, z=512} jd{x=1301, y=-51, z=512}
-[23:28:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1300, y=-51, z=512} jd{x=1301, y=-51, z=512}
-[23:55:09] [Server thread/WARN]: Birch Boat (vehicle of Wycktreckz) moved wrongly! 0.4617486707866192
-[23:55:09] [Server thread/WARN]: Birch Boat (vehicle of Wycktreckz) moved wrongly! 0.47368477886584515
-[23:55:09] [Server thread/WARN]: Birch Boat (vehicle of Wycktreckz) moved wrongly! 0.4844272758525676
-[23:55:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1097, y=64, z=262} jd{x=1100, y=62, z=262}
+[00:14:00] [Server thread/INFO]: Wycktreckz has made the advancement [Hot Stuff]
+[00:14:44] [Server thread/INFO]: Wycktreckz has made the advancement [We Need to Go Deeper]
+[00:23:27] [Server thread/INFO]: Wycktreckz has made the advancement [Those Were the Days]
+[00:23:41] [Server thread/INFO]: Wycktreckz has made the advancement [War Pigs]
+[00:23:58] [Server thread/INFO]: Wycktreckz has made the advancement [Hidden in the Depths]
+[00:24:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:24:12] [Server thread/INFO]: set difficulty hard<--[HERE]
+[00:24:24] [Server thread/INFO]: The difficulty has been set to Hard
+[00:24:59] [Server thread/INFO]: Wycktreckz has made the advancement [Ice Bucket Challenge]
