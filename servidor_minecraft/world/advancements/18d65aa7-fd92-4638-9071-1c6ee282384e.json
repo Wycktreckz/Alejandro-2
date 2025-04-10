@@ -2111,9 +2111,10 @@
       "minecraft:crimson_forest": "2025-04-10 00:14:45 +0000",
       "minecraft:nether_wastes": "2025-04-10 00:56:42 +0000",
       "minecraft:soul_sand_valley": "2025-04-10 01:01:26 +0000",
+      "minecraft:basalt_deltas": "2025-04-10 01:16:03 +0000",
       "minecraft:warped_forest": "2025-04-10 00:17:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
