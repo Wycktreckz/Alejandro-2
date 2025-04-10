@@ -360,6 +360,7 @@
       "suspicious_stew": "2025-04-06 00:20:19 +0000",
       "cooked_mutton": "2025-04-06 01:37:12 +0000",
       "cooked_cod": "2025-04-06 01:13:11 +0000",
+      "cooked_beef": "2025-04-09 23:44:30 +0000",
       "porkchop": "2025-04-06 00:02:28 +0000"
     },
     "done": false
@@ -374,6 +375,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-09 03:21:18 +0000",
       "minecraft:enderman": "2025-04-09 03:22:02 +0000",
+      "minecraft:witch": "2025-04-10 00:01:54 +0000",
       "minecraft:spider": "2025-04-06 00:03:19 +0000",
       "minecraft:zombie": "2025-04-06 00:03:22 +0000",
       "minecraft:creeper": "2025-04-06 01:55:40 +0000",
@@ -1980,6 +1982,48 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-09 04:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-09 23:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-10 00:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-09 23:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 00:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-10 00:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-04-09 23:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-09 23:35:27 +0000"
     },
     "done": true
   },
