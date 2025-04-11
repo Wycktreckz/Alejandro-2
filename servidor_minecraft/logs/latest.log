@@ -1,13 +1,18 @@
-[00:14:00] [Server thread/INFO]: Wycktreckz has made the advancement [Hot Stuff]
-[00:14:44] [Server thread/INFO]: Wycktreckz has made the advancement [We Need to Go Deeper]
-[00:23:27] [Server thread/INFO]: Wycktreckz has made the advancement [Those Were the Days]
-[00:23:41] [Server thread/INFO]: Wycktreckz has made the advancement [War Pigs]
-[00:23:58] [Server thread/INFO]: Wycktreckz has made the advancement [Hidden in the Depths]
-[00:24:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:24:12] [Server thread/INFO]: set difficulty hard<--[HERE]
-[00:24:24] [Server thread/INFO]: The difficulty has been set to Hard
-[00:24:59] [Server thread/INFO]: Wycktreckz has made the advancement [Ice Bucket Challenge]
-[00:45:59] [Server thread/INFO]: Wycktreckz has made the advancement [Who is Cutting Onions?]
-[01:06:22] [Server thread/INFO]: Wycktreckz has made the advancement [A Terrible Fortress]
-[01:06:51] [Server thread/INFO]: Wycktreckz has made the advancement [Into Fire]
-[01:16:03] [Server thread/INFO]: Wycktreckz has completed the challenge [Hot Tourist Destinations]
+[01:04:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:04:40] [ServerMain/INFO]: Loaded 1290 recipes
+[01:04:40] [ServerMain/INFO]: Loaded 1399 advancements
+[01:04:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:04:41] [Server thread/INFO]: Loading properties
+[01:04:41] [Server thread/INFO]: Default game type: SURVIVAL
+[01:04:41] [Server thread/INFO]: Generating keypair
+[01:04:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:04:42] [Server thread/INFO]: Using epoll channel type
+[01:04:42] [Server thread/INFO]: Preparing level "world"
+[01:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:04:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:04:47] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[01:04:48] [Server thread/INFO]: Time elapsed: 729 ms
+[01:04:48] [Server thread/INFO]: Done (6.026s)! For help, type "help"
+[01:04:54] [User Authenticator #1/INFO]: UUID of player Wycktreckz is 18d65aa7-fd92-4638-9071-1c6ee282384e
+[01:04:55] [Server thread/INFO]: Wycktreckz[/127.123.89.46:48729] logged in with entity id 5 at (1120.4503826886485, 66.0, 215.13476741118856)
+[01:04:56] [Server thread/INFO]: Wycktreckz joined the game
