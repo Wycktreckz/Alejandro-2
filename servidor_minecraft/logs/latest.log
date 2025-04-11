@@ -67,3 +67,9 @@
 [02:46:48] [Server thread/INFO]: Wycktreckz has made the advancement [Free the End]
 [02:47:33] [Server thread/INFO]: Wycktreckz has reached the goal [The Next Generation]
 [03:01:06] [Server thread/INFO]: Wycktreckz has made the advancement [Enchanter]
+[03:07:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=164, y=67, z=203} jd{x=158, y=58, z=211}
+[03:07:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=58, z=213} jd{x=152, y=56, z=214}
+[03:07:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=153, y=58, z=213} jd{x=152, y=56, z=213}
+[03:09:08] [Server thread/INFO]: Wycktreckz has made the advancement [Remote Getaway]
+[03:09:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:09:17] [Server thread/INFO]:   <--[HERE]
