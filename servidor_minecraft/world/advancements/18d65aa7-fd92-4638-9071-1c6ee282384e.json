@@ -387,6 +387,7 @@
       "minecraft:blaze": "2025-04-10 01:06:51 +0000",
       "minecraft:skeleton": "2025-04-09 03:21:18 +0000",
       "minecraft:witch": "2025-04-10 00:01:54 +0000",
+      "minecraft:ender_dragon": "2025-04-11 02:46:48 +0000",
       "minecraft:hoglin": "2025-04-10 00:45:43 +0000",
       "minecraft:piglin": "2025-04-10 00:15:33 +0000",
       "minecraft:breeze": "2025-04-11 02:11:04 +0000",
@@ -2612,6 +2613,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-11 02:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-11 02:18:32 +0000"
@@ -2639,6 +2646,12 @@
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-04-11 02:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-11 02:47:33 +0000"
     },
     "done": true
   },
