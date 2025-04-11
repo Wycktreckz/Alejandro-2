@@ -385,16 +385,17 @@
     "criteria": {
       "minecraft:blaze": "2025-04-10 01:06:51 +0000",
       "minecraft:skeleton": "2025-04-09 03:21:18 +0000",
+      "minecraft:witch": "2025-04-10 00:01:54 +0000",
+      "minecraft:hoglin": "2025-04-10 00:45:43 +0000",
       "minecraft:piglin": "2025-04-10 00:15:33 +0000",
       "minecraft:breeze": "2025-04-11 02:11:04 +0000",
       "minecraft:enderman": "2025-04-09 03:22:02 +0000",
-      "minecraft:witch": "2025-04-10 00:01:54 +0000",
+      "minecraft:silverfish": "2025-04-11 02:16:26 +0000",
       "minecraft:spider": "2025-04-06 00:03:19 +0000",
       "minecraft:piglin_brute": "2025-04-10 00:23:39 +0000",
       "minecraft:zombie": "2025-04-06 00:03:22 +0000",
       "minecraft:creeper": "2025-04-06 01:55:40 +0000",
-      "minecraft:zombie_villager": "2025-04-09 04:16:42 +0000",
-      "minecraft:hoglin": "2025-04-10 00:45:43 +0000"
+      "minecraft:zombie_villager": "2025-04-09 04:16:42 +0000"
     },
     "done": false
   },
@@ -2610,6 +2611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-11 01:25:42 +0000"
@@ -2634,9 +2641,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-11 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:29 +0000"
     },
     "done": true
   },
@@ -2664,6 +2701,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-11 02:12:36 +0000"
@@ -2682,6 +2731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-11 02:18:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-11 01:25:42 +0000"
@@ -2691,6 +2746,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-11 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
     },
     "done": true
   },
@@ -2706,6 +2767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-04-11 01:11:00 +0000"
@@ -2715,6 +2782,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-04-11 01:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
     },
     "done": true
   },
@@ -2748,9 +2821,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall": {
     "criteria": {
       "has_tuff_bricks": "2025-04-11 02:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-11 02:18:32 +0000"
     },
     "done": true
   },
@@ -2763,6 +2848,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 01:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-11 02:18:30 +0000"
     },
     "done": true
   },
