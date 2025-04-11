@@ -17,3 +17,38 @@
 [01:04:55] [Server thread/INFO]: Wycktreckz[/127.123.89.46:48729] logged in with entity id 5 at (1120.4503826886485, 66.0, 215.13476741118856)
 [01:04:56] [Server thread/INFO]: Wycktreckz joined the game
 [01:40:14] [Server thread/INFO]: The difficulty has been set to Hard
+[01:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1372, y=50, z=1624} jd{x=1371, y=48, z=1624}
+[01:48:16] [Server thread/INFO]: Wycktreckz has made the advancement [Take Aim]
+[01:56:10] [Server thread/INFO]: Unknown game mode: 3
+[01:56:10] [Server thread/INFO]: gamemode 3 wycktreckx<--[HERE]
+[01:56:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:56:25] [Server thread/INFO]: wycktreckz gamemode 3<--[HERE]
+[01:59:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[01:59:48] [Server thread/INFO]: ...nde_portalñ<--[HERE]
+[02:00:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:00:25] [Server thread/INFO]: <--[HERE]
+[02:00:32] [Server thread/INFO]: Unknown game mode: wycktreckz
+[02:00:32] [Server thread/INFO]: ...wycktreckz 3<--[HERE]
+[02:00:45] [Server thread/INFO]: Unknown game mode: 3
+[02:00:45] [Server thread/INFO]: gamemode 3 wycktreckz<--[HERE]
+[02:00:54] [Server thread/INFO]: Unknown game mode: 3
+[02:00:54] [Server thread/INFO]: gamemode 3<--[HERE]
+[02:01:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:01:11] [Server thread/INFO]:  /gamemode 3 wycktreckz<--[HERE]
+[02:01:30] [Server thread/INFO]: Unknown game mode: set
+[02:01:30] [Server thread/INFO]: ...memode set wycktreckz 3<--[HERE]
+[02:01:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:01:36] [Server thread/INFO]: admin wycktreckz<--[HERE]
+[02:03:43] [Server thread/INFO]: The nearest minecraft:stronghold is at [-1888, ~, 368] (1923 blocks away)
+[02:03:43] [Server thread/INFO]: Locating element minecraft:stronghold took 10 ms
+[02:04:18] [Server thread/INFO]: Unknown game mode: wycktreckx
+[02:04:18] [Server thread/INFO]: ...wycktreckx 3[A<--[HERE]
+[02:04:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:04:22] [Server thread/INFO]: <--[HERE]
+[02:04:34] [Server thread/INFO]: No player was found
+[02:04:42] [Server thread/INFO]: Set Wycktreckz's game mode to Spectator Mode
+[02:04:53] [Server thread/INFO]: Wycktreckz has made the advancement [Eye Spy]
+[02:05:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:05:04] [Server thread/INFO]: set gamemode survival wycktreckz<--[HERE]
+[02:05:21] [Server thread/INFO]: Unknown game mode: sruvival
+[02:05:21] [Server thread/INFO]: ...e sruvival wycktreckz<--[HERE]
